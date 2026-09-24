@@ -143,3 +143,7 @@ The Wazuh home lab successfully demonstrated an end-to-end SOC investigation of 
 The investigation identified the source IP, target endpoint, authentication method, Windows event, Wazuh rule and available process information.
 
 The activity was intentionally generated within the controlled lab environment.
+
+## Evidence
+
+![SMB Incident](../screenshots/kali/smb-incident-alert.png)
