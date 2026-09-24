@@ -65,3 +65,7 @@ Description: Powershell executing process discovery
 ## Result
 
 PowerShell Script Block Logging and Wazuh PowerShell detection were successfully demonstrated.
+
+## Evidence
+
+![PowerShell Detection](../screenshots/powershell/powershell-detection.png)
