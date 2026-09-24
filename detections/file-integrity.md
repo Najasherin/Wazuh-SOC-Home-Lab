@@ -50,7 +50,7 @@ Real-time FIM successfully detected:
 
 ## Evidence
 
-![File Integrity Detection](../screenshots/fim/file-integrity-alert.png)
+![File Integrity Detection](../screenshots/fim/file-modification-alert.png)
 
 ```text
 Create → Modify → Delete
