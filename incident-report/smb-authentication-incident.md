@@ -146,4 +146,4 @@ The activity was intentionally generated within the controlled lab environment.
 
 ## Evidence
 
-![SMB Incident](../screenshots/kali/smb-incident-alert.png)
+![SMB Incident](../screenshots/smb-incident/smb-incident-alert.png)
