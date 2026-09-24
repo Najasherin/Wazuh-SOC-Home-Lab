@@ -48,6 +48,10 @@ Wazuh recorded the deletion event.
 
 Real-time FIM successfully detected:
 
+## Evidence
+
+![File Integrity Detection](../screenshots/fim/file-integrity-alert.png)
+
 ```text
 Create → Modify → Delete
 ```
