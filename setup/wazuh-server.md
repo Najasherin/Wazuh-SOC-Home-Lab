@@ -42,3 +42,7 @@ The exact private host-only address is intentionally not documented here.
 ## Result
 
 The Wazuh server was successfully deployed and used as the central SIEM for the lab.
+
+## Screenshot
+
+![Wazuh Dashboard](../screenshots/setup/Wazuh-Dashboard.png)
