@@ -49,3 +49,7 @@ The following fields were examined:
 Wazuh successfully detected Windows authentication failures.
 
 This detection was later used in the SMB authentication attack simulation.
+
+## Evidence
+
+![Authentication Alert](../screenshots/authentication/failed-login-alert.png)
